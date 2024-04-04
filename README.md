@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil, Gabriel Barros Profile 🖥️ <br>
+# Gabriel Barros Profile 🖥️ <br>
 ## Sou esse 👇 tipo de desenvolvedor 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabkt&layout=compact)
 
